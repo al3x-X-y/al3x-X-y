@@ -32,7 +32,7 @@
 
 - 🌱 I’m currently learning **C++ and DSA**
 
-- 💬 Ask me about **basic C**
+- 💬 Ask me about **basic C and Linux**
 
 - 📫 How to reach me **alexd2d.01@gmail.com**
 
