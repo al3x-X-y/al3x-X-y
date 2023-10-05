@@ -36,7 +36,7 @@
 
 - 📫 How to reach me **alexd2d.01@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I love Linux and Window Managers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
