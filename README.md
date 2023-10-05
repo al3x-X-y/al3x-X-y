@@ -13,7 +13,10 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=al3x-X-y&"  />
+
+
+<a href="https://wakatime.com/@33f67ced-9997-4f06-b228-ad7141d0071e"><img src="https://wakatime.com/badge/user/33f67ced-9997-4f06-b228-ad7141d0071e.svg" alt="Total time coded since Jul 14 2023"  alt="wakatime" alt="Total time coded since Mar 18 2023" /></a>
 </div>
 
 ###
@@ -25,8 +28,22 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-<p align="left">I'm al3x-X-y from Bangladesh.<br><br>- 🔭 I’m studying CSE. <br>- 📚 I'm currently learning C++ and DSA. <br>- ⚡ In my free time I usually code and try to work on small projects.</p>
+- 🌱 I’m currently learning **C++ and DSA**
+
+- 💬 Ask me about **basic C**
+
+- 📫 How to reach me **alexd2d.01@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://codeforces.com/profile/al3x_X_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="1sraQ" height="30" width="40" /></a>
+
+</p>
 
 ###
 
@@ -46,6 +63,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+<div align="left">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3x-X-y&layout=compact&$disable_animations=false&border_radius=5&border_color=000000$disable_animations=false&show_icons=true&theme=github_dark)
 </div>
 
 ###
