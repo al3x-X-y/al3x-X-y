@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- ═══════════════════════ BATMAN PROTOCOL 999 // CRIMSON BANNER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=290&color=gradient&customColorList=0:050505,20:1a0003,40:400008,60:800010,80:1a0003,100:050505&text=%F0%9F%A6%87%20al3x-X-y%20%3A%3A%20BAT-PLAN-999%20%F0%9F%A6%87&fontColor=ff0033&fontSize=46&fontAlignY=38&desc=%E3%80%8E%20OPERATING%20FROM%20THE%20SHADOWS%20%E3%83%BB%20SILENT%20VIGILANTE%20OF%20CODE%20%E3%80%8F&descSize=14&descAlignY=58&descColor=ff6680&animation=twinkling" width="100%" alt="Bat-Plan 999" />
+<!-- ═══════════════════════ BAT-PLAN 999 // CRIMSON BANNER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=290&color=gradient&customColorList=0:050505,20:1a0003,40:400008,60:800010,80:1a0003,100:050505&text=%F0%9F%A6%87%20ISSUE%20%23999%20%3A%3A%20al3x-X-y%20%F0%9F%A6%87&fontColor=ff0033&fontSize=44&fontAlignY=38&desc=%E3%80%8E%20BAT-PLAN-999%20%E3%83%BB%20NIGHTSHIFT%20AT%20THE%20BATCAVE%20%E3%80%8F&descSize=14&descAlignY=58&descColor=ff6680&animation=twinkling" width="100%" alt="Bat-Plan 999" />
 
 <!-- ═══════════════════════ BLOOD-RED TELEMETRY TYPING ═══════════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=1000&color=FF0033&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=%E2%96%B6+PROTOCOL_999+%3A+%22I+am+the+night.+I+am+debugging+a+segfault+at+3+AM.%22;%E2%96%B6+SYS_STATUS+%3A+Looks+like+he's+doing+nothing+%7C+Actually+building+an+empire;%E2%96%B6+%22Wait...+when+did+you+build+all+this%3F%22+%E2%86%92+%22I+was+bored+on+a+Tuesday.%22;%E2%96%B6+CRITICAL_WARNING+%3A+Stuck+inside+an+Adobe+timeline.+Send+RAM+immediately." alt="Terminal Output" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=1000&color=FF0033&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=%E2%96%B6+SYS_STATUS+%3A+Looks+like+he's+doing+nothing+%7C+Actually+building+in+silence;%E2%96%B6+%22Wait...+when+did+you+build+all+this%3F%22+%E2%86%92+%22I've+been+working+on+it.%22;%E2%96%B6+BATCAVE_PROTOCOL+%3A+C%2B%2B+%C2%B7+Low-Level+Systems+%C2%B7+Trapped+in+Adobe+Timeline" alt="Terminal Output" />
 </a>
 
 <!-- ═══════════════════════ RED & BLACK SURVEILLANCE BADGES ═══════════════════════ -->
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/BAT--PLAN-999_ARMED-ff0033?style=for-the-badge&labelColor=050505&color=ff0033" alt="Bat Plan" />
   &nbsp;
   <a href="https://wakatime.com/@33f67ced-9997-4f06-b228-ad7141d0071e">
-    <img src="https://wakatime.com/badge/user/33f67ced-9997-4f06-b228-ad7141d0071e.svg?style=for-the-badge&color=ff0033&labelColor=050505" alt="WakaTime Telemetry" />
+    <img src="https://wakatime.com/badge/user/33f67ced-9997-4f06-b228-ad7141d0071e.svg?style=for-the-badge&color=ff0033&labelColor=050505" alt="WakaTime" />
   </a>
   &nbsp;
   <img src="https://visitor-badge.laobi.icu/badge?page_id=al3x-X-y&left_color=050505&right_color=ff0033&left_text=%E2%97%88%20radar_hits" alt="Radar Hits" />
@@ -27,50 +27,48 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                  SECTION 1: THE BATCAVE DOSSIER                     -->
+<!--        COMIC ISSUE #999: THE 24-HOUR BATCAVE GAUNTLET               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td width="38%" align="center" valign="middle">
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%F0%9F%A6%87+THE_24_HOUR_GAUNTLET+%3A%3A+ISSUE_%23999" alt="Comic Title" />
+  </h2>
+</div>
 
-  <!-- Crimson Shadow Operative Visual -->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) brightness(0.8) drop-shadow(0 0 10px #ff0033);" alt="Batman Coder" />
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&duration=2500&pause=1000&color=FF0033&center=true&vCenter=true&repeat=true&width=280&height=28&lines=%5B%E2%97%86%5D+BATCAVE_TERMINAL%3A+ONLINE;%5B%E2%97%86%5D+MODE%3A+SILENT_DOMINATION" alt="Status" />
-
-</td>
-<td width="62%" valign="top">
-
-```yaml
-# ─────────────────────────────────────────────────────────────
-# 📁 WAYNE_ENTERPRISES // BAT-PLAN-999: SUBJECT_ALEX
-# ─────────────────────────────────────────────────────────────
-
-identity:
-  codename:        "al3x-X-y"
-  known_alias:     "Mahtab"
-  nature:          "Looks 100% idle. Actually overclocking his brain at 5.0 GHz."
-  behavior_loop:   "Vanishes for 6 months -> spawns back with 5 new superpowers."
-
-intel_assessment:
-  social_battery:  "12% (rapidly decays when asked 'what's your status?')"
-  communication:   "Speaks only in sarcasm, thoughtful insights, or compiler errors."
-  core_philosophy: "Why look successful when you can just silently win?"
-
-active_sectors:
-  low_level_core:  ["C++ 20", "Data Structures", "Fighting Memory Leaks"]
-  optical_hazard:  "Trapped in 400-layer Adobe timeline. [Click below to see the chaos 🎬]"
-  daily_driver:    "Arch Linux btw (spent 40 hours configuring Neovim)"
-
-status_report:
-  bystander_query: "Bro... wait, WHEN did you build all of this?!"
-  al3x_response:   "Idk, I was bored on a Tuesday."
 ```
-
-</td>
-</tr>
-</table>
+╔════════════════════════════════════════════════════════════════════════════════════════════╗
+║ 🦇 LOG 02:14 AM ── THE TIMELINE SECTOR (THE CLIENT SHOWDOWN)                               ║
+║ Pitch-black room. Dual monitors glowing crimson. 400 tracks deep in an unrendered After     ║
+║ Effects comp. Client demands "more pop" at 2 AM. Slicing keyframes like Batarangs.         ║
+╠════════════════════════════════════════════════════════════════════════════════════════════╣
+║ 🦇 LOG 05:14 AM ── THE BATCAVE COLLAPSE                                                    ║
+║ Render hits 100%. Export verified. Face-first into the mattress. Total allotted sleep:     ║
+║ 3 hours and 46 minutes. Optimal vigilante recovery.                                        ║
+╠════════════════════════════════════════════════════════════════════════════════════════════╣
+║ 🦇 LOG 09:15 AM ── THE "BRUCE WAYNE" MASQUERADE (CLASSROOM PROTOCOL)                       ║
+║ Fluorescent university lights. Oversized hoodie. Looking completely idle in the back row    ║
+║ spinning a pen, while secretly SSH'd into an Arch Linux server running background daemons. ║
+╠════════════════════════════════════════════════════════════════════════════════════════════╣
+║ 🦇 LOG 01:30 PM ── COMPUTER LAB (ZOMBIE REFACTORING)                                       ║
+║ Standing completely still in front of a terminal like a gargoyle. Battery at 0.4%. Brain   ║
+║ compiling C++ pointers purely on spinal reflex. Professor: "Are you okay?" Alex: "Compiling"║
+╠════════════════════════════════════════════════════════════════════════════════════════════╣
+║ 🦇 LOG 06:45 PM ── URBAN GAUNTLET (THE BUS & IRON CONDITIONING)                            ║
+║ Commuting on a roaring city bus over pothole-infested streets. Balancing on one foot at     ║
+║ 40 MPH builds character. Followed by deadlifts at the gym with lofi pulsing through cans.  ║
+╠════════════════════════════════════════════════════════════════════════════════════════════╣
+║ 🦇 LOG 10:15 PM ── THE BAT-SIGNAL IGNITES                                                  ║
+║ Return to base. Dark mode engaged. Phone flashes like the Bat-Signal across the ceiling:   ║
+║ [INCOMING BRIEFING : HIGH-STAKES CLIENT ENCOUNTER]. Civilian disguise stripped away.       ║
+╠════════════════════════════════════════════════════════════════════════════════════════════╣
+║ 🦇 LOG 01:50 AM ── THE AMBUSH & THE KNOCKOUT                                               ║
+║ The Zoom call connects. Screen shares. Client's jaw hits the floor seeing the full build:  ║
+║                                                                                            ║
+║ CLIENT: "Bro... wait. WHEN did you build all of this?! You looked offline all day?!"       ║
+║ ALEX:   "I've been working on it."                                                         ║
+╚════════════════════════════════════════════════════════════════════════════════════════════╝
+```
 
 <br>
 
@@ -80,20 +78,20 @@ status_report:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(3);" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--            SECTION 2: CLASSIFIED ADOBE TIMELINE TEASE             -->
+<!--           INCIDENT REPORT // ADOBE TIMELINE TRAP                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=550&height=35&lines=%F0%9F%8E%AC+SUB_RADAR+%3A%3A+THE_ADOBE_TIMELINE_HAZARD" alt="Adobe Hazard" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%F0%9F%8E%AC+HAZARD_REPORT+%3A%3A+TRAPPED_IN_ADOBE_TIMELINE" alt="Adobe Hazard" />
 </h2>
 
-<table border="0" cellpadding="14" cellspacing="0" style="border: 1px solid #ff0033; background-color: #0d0003; border-radius: 10px; max-width: 750px;">
+<table border="0" cellpadding="14" cellspacing="0" style="border: 1px solid #ff0033; background-color: #0d0003; border-radius: 10px; max-width: 780px;">
 <tr>
 <td align="center">
   <p>
-    <b><font color="#ff0033">⚠️ INCIDENT REPORT // CLASSIFIED :</font></b><br>
+    <b><font color="#ff0033">⚠️ ACTIVE SUB-RADAR DISPATCH :</font></b><br>
     <font color="#e0e0e0">
-      <i>"Currently lost inside a 400-track Adobe timeline with 82 unrendered After Effects keyframes and 0 hours of sleep."</i>
+      <i>"Currently trapped in a 400-layer Premiere/After Effects timeline with 82 unrendered keyframes, zero sleep, and dangerous amounts of caffeine."</i>
     </font>
   </p>
   <p>
@@ -115,11 +113,11 @@ status_report:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(3);" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--               SECTION 3: THE TACTICAL UTILITY BELT (GADGETS)      -->
+<!--               THE TACTICAL UTILITY BELT (GADGET ARSENAL)          -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%9A%99%EF%B8%8F+TACTICAL_ARSENAL+%3A%3A+UTILITY_BELT" alt="Arsenal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=550&height=35&lines=%E2%9A%99%EF%B8%8F+TACTICAL_ARSENAL+%3A%3A+UTILITY_BELT" alt="Arsenal" />
 </h2>
 
 <!-- Gadget Tier 1 -->
@@ -130,7 +128,7 @@ status_report:
 
 <!-- Gadget Tier 2 -->
 <p>
-  <b><font color="#ff6680">〔 TIER 02 : BASE OS & INFILTRATION RIGS 〕</font></b><br>
+  <b><font color="#ff6680">〔 TIER 02 : INFILTRATION RIG & OS 〕</font></b><br>
   <img src="https://skillicons.dev/icons?i=arch,linux,docker,git&theme=dark" alt="Infiltration Rig" />
 </p>
 
@@ -144,7 +142,7 @@ status_report:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(3);" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--               SECTION 4: CLASSIFIED ARENA (CODEFORCES)            -->
+<!--               ALGORITHMIC COMBAT LOG (CODEFORCES)                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <h2>
@@ -161,7 +159,7 @@ status_report:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(3);" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--               SECTION 5: BATCOMPUTER TELEMETRY & METRICS          -->
+<!--               BATCOMPUTER RADAR TELEMETRY & STATS                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <h2>
@@ -190,40 +188,11 @@ status_report:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(3);" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--               SECTION 6: SUB-RADAR AUDIO FREQUENCY                -->
+<!--               SECURE ENCRYPTED COMMS // DISPATCHES                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <h2>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=2000&color=FF6680&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%F0%9F%93%A1+ENCRYPTED_SIGNAL+%3A%3A+FREQ_88.4" alt="Audio Signal" />
-</h2>
-
-<table border="0" cellpadding="10" cellspacing="0" style="border: 1px solid #ff0033; background-color: #050505; border-radius: 8px;">
-  <tr>
-    <td align="center" width="80">
-      <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="55" alt="Sonar Dial" />
-    </td>
-    <td align="left">
-      <b><font color="#ff0033">⌁ Background Intel :</font></b> <font color="#cbd5e1"><i>Classified Dark Lo-Fi Frequencies ─ Batcave Focus Mode</i></font><br>
-      <font color="#808080">▶ 00:00:00 ━━━━━━━━━●━━━━━━━━━━ ∞</font><br>
-      <font color="#e0e0e0">◄◄ &nbsp;&nbsp; ❚❚ &nbsp;&nbsp; ►► &nbsp;&nbsp;&nbsp;&nbsp; 🔈 Redacted Audio Stream &nbsp;&nbsp; 🔁 Infinite Loop</font>
-    </td>
-    <td align="center" width="100">
-      <img src="https://media.giphy.com/media/Lp9msH65vVXbAZy3S8/giphy.gif" width="65" alt="Audio Wave" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════════ CRIMSON LASER DIVIDER ═══════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(3);" />
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--               SECTION 7: SECURE ENCRYPTED COMMS                   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<h2>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%F0%9F%94%92+SECURE_TRANSMISSION_CHANNELS" alt="Comms Array" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=550&height=35&lines=%F0%9F%94%92+SECURE_TRANSMISSION_CHANNELS" alt="Comms Array" />
 </h2>
 
 <p>
@@ -249,7 +218,7 @@ status_report:
   </a>
   &nbsp;
   <a href="https://calendly.com/thewatchtimestudio/30min" target="_blank">
-    <img src="https://img.shields.io/badge/%E2%8F%B3_RESCUE_BRIEFING-Schedule_Link-ff0033?style=for-the-badge&labelColor=050505&color=400008" alt="Briefing" />
+    <img src="https://img.shields.io/badge/%E2%8F%B3_RESCUE_MISSION-Schedule_Link-ff0033?style=for-the-badge&labelColor=050505&color=400008" alt="Briefing" />
   </a>
 </p>
 
@@ -259,7 +228,7 @@ status_report:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0:050505,20:1a0003,40:400008,60:800010,80:1a0003,100:050505&section=footer" width="100%" alt="Footer" />
 
 <p>
-  <sub>🦇 <code>BAT_PLAN_999 :: TERMINAL_ACTIVE</code> &bull; <i>"Trapped in an Adobe timeline... building in silence."</i> &bull; <b>al3x-X-y</b></sub>
+  <sub>🦇 <code>BAT_PLAN_999 :: ISSUE #999 END</code> &bull; <i>"Trapped in an Adobe timeline... building in silence."</i> &bull; <b>al3x-X-y</b></sub>
 </p>
 
 </div>
