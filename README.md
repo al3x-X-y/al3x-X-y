@@ -43,8 +43,8 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="38%" align="center" valign="middle">
-  <!-- LOCAL GUARANTEED BATMAN GIF // THE BATMAN WALKING IN THE RAIN -->
-  <img src="https://raw.githubusercontent.com/al3x-X-y/al3x-X-y/main/assets/chapter1.gif" width="300" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) brightness(0.9) drop-shadow(0 0 14px #ff0033);" alt="The Batman in the Rain" />
+  <!-- CHAPTER 1: THE BATMAN RED FLARE -->
+  <img src="assets/chapter1.gif" width="300" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) brightness(0.9) drop-shadow(0 0 14px #ff0033);" alt="The Batman Red Flare" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=11&duration=2500&pause=1000&color=FF0033&center=true&vCenter=true&repeat=true&width=280&height=24&lines=%5B%E2%9A%A0%5D+RAM_OVERFLOW%3A+99%25;%5B%E2%9A%A0%5D+AFTER_EFFECTS_CRASH_DEFUSED" alt="Warning" />
 </td>
@@ -103,8 +103,8 @@ combat_log:
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="34%" align="center" valign="middle">
-  <!-- LOCAL GUARANTEED BATCAVE GIF // BATMAN IN SHADOWS -->
-  <img src="https://raw.githubusercontent.com/al3x-X-y/al3x-X-y/main/assets/chapter2.gif" width="250" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Batcave Shadows" />
+  <!-- CHAPTER 2: BATCAVE MONITORS & RETREAT -->
+  <img src="assets/chapter2.gif" width="250" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Batcave Collapse" />
 </td>
 <td width="66%" valign="top">
   <p>
@@ -134,8 +134,8 @@ combat_log:
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="34%" align="center" valign="middle">
-  <!-- LOCAL GUARANTEED BATMAN SILHOUETTE IN RAIN -->
-  <img src="https://raw.githubusercontent.com/al3x-X-y/al3x-X-y/main/assets/chapter3.gif" width="250" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Civilian Disguise" />
+  <!-- CHAPTER 3: BATMAN SILHOUETTE IN RAIN -->
+  <img src="assets/chapter3.gif" width="250" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Civilian Disguise" />
 </td>
 <td width="66%" valign="top">
   <p>
@@ -171,8 +171,8 @@ combat_log:
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="34%" align="center" valign="middle">
-  <!-- LOCAL GUARANTEED BATMAN AT TERMINAL CONSOLE -->
-  <img src="https://raw.githubusercontent.com/al3x-X-y/al3x-X-y/main/assets/batman-terminal.gif" width="250" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Batcomputer Terminal" />
+  <!-- CHAPTER 4: BATMAN AT THE BATCOMPUTER -->
+  <img src="assets/chapter4.gif" width="250" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Batcomputer Terminal" />
 </td>
 <td width="66%" valign="top">
   <p>
@@ -210,12 +210,11 @@ combat_log:
   Followed by heavy iron conditioning with classified dark frequencies streaming through the headphones."</font></i>
 </p>
 
-<!-- TACTICAL BATMAN AUDIO CONSOLE -->
+<!-- CHAPTER 5: TACTICAL BATMAN AUDIO CONSOLE -->
 <table border="0" cellpadding="14" cellspacing="0" style="border: 2px solid #ff0033; background-color: #050505; border-radius: 12px; box-shadow: 0 0 15px rgba(255, 0, 51, 0.4); max-width: 680px;">
   <tr>
     <td align="center" width="90">
-      <!-- LOCAL GUARANTEED BATMAN LIGHTNING ANIMATION -->
-      <img src="https://raw.githubusercontent.com/al3x-X-y/al3x-X-y/main/assets/chapter4.gif" width="85" style="border-radius: 8px; border: 1px solid #ff0033;" alt="Batman Lightning" />
+      <img src="assets/chapter5.gif" width="85" style="border-radius: 8px; border: 1px solid #ff0033;" alt="Batman Audio Console" />
     </td>
     <td align="left">
       <b><font color="#ff0033">🦇 BATCAVE_FREQ_99.4 ::</font></b> <font color="#ffffff"><i>Dark Gotham Focus Beats & Synthetic Ambience</i></font><br>
@@ -247,8 +246,8 @@ combat_log:
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="34%" align="center" valign="middle">
-  <!-- LOCAL GUARANTEED BAT-SIGNAL FLARE GIF -->
-  <img src="https://raw.githubusercontent.com/al3x-X-y/al3x-X-y/main/assets/chapter6.gif" width="250" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Bat-Signal" />
+  <!-- CHAPTER 6: BAT-SIGNAL SHINING IN STORM CLOUDS -->
+  <img src="assets/chapter6.gif" width="250" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Bat-Signal in Storm Clouds" />
 </td>
 <td width="66%" valign="top">
   <p>
