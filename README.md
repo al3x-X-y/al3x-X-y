@@ -5,7 +5,7 @@
 
 <br>
 
-<!-- ═══════════════════════ READABLE TELEMETRY TYPING (NO CLIPPING) ═══════════════════════ -->
+<!-- ═══════════════════════ READABLE TELEMETRY TYPING (SINGLE LINE // NO OVERLAP) ═══════════════════════ -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=1200&color=FF0033&center=true&vCenter=true&repeat=true&width=800&height=40&lines=%E2%96%B6+%5BBAT_PROTOCOL_999%5D+Classified+24H+Incident+Report;%E2%96%B6+%22Wait...+when+did+he+build+all+this%3F%22+%E2%86%92+%22I've+been+working+on+it.%22;%E2%96%B6+SYS_STATUS+%3A+Looks+completely+idle+%7C+Actually+building+an+empire;%E2%96%B6+HAZARD_ALERT+%3A+Trapped+in+a+400-layer+Adobe+timeline.+Send+RAM." alt="Batcomputer Output" />
 </a>
@@ -43,8 +43,8 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="38%" align="center" valign="middle">
-  <!-- THE BATMAN WALKING IN THE RAIN -->
-  <img src="https://media1.giphy.com/media/qrIlvM63BEKKbMhUnK/giphy.gif" width="300" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) brightness(0.9) drop-shadow(0 0 14px #ff0033);" alt="The Batman" />
+  <!-- LOCAL GUARANTEED BATMAN GIF // THE BATMAN WALKING IN THE RAIN -->
+  <img src="https://raw.githubusercontent.com/al3x-X-y/al3x-X-y/main/assets/chapter1.gif" width="300" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) brightness(0.9) drop-shadow(0 0 14px #ff0033);" alt="The Batman in the Rain" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=11&duration=2500&pause=1000&color=FF0033&center=true&vCenter=true&repeat=true&width=280&height=24&lines=%5B%E2%9A%A0%5D+RAM_OVERFLOW%3A+99%25;%5B%E2%9A%A0%5D+AFTER_EFFECTS_CRASH_DEFUSED" alt="Warning" />
 </td>
@@ -102,14 +102,14 @@ combat_log:
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td width="32%" align="center" valign="middle">
-  <!-- BATMAN SHADOW EXHAUSTION -->
-  <img src="https://media1.giphy.com/media/B4jfJqiIxvU08/giphy.gif" width="240" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 10px #ff0033);" alt="Batman Shadows" />
+<td width="34%" align="center" valign="middle">
+  <!-- LOCAL GUARANTEED BATCAVE GIF // BATMAN IN SHADOWS -->
+  <img src="https://raw.githubusercontent.com/al3x-X-y/al3x-X-y/main/assets/chapter2.gif" width="250" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Batcave Shadows" />
 </td>
-<td width="68%" valign="top">
+<td width="66%" valign="top">
   <p>
     <i><font color="#a0a0a0">"Render bar hits 100%. Export verified. Face hits mattress.<br>
-    <b>Total allotted recovery sleep:</b> 3 hours, 46 minutes.<br>Proof that this vigilante was coding while the city slept:"</font></i>
+    <b>Total allotted recovery sleep:</b> 3 hours, 46 minutes.<br>Proof that this vigilante was compiling while the city slept:"</font></i>
   </p>
   <p align="center">
     <img width="380" src="https://github-readme-stats.vercel.app/api?username=al3x-X-y&show_icons=true&hide_border=false&border_color=ff0033&border_radius=8&include_all_commits=true&count_private=true&title_color=ff0033&icon_color=ff0033&text_color=e0e0e0&bg_color=000000" alt="Stats" />
@@ -131,22 +131,31 @@ combat_log:
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=650&height=35&lines=CHAPTER_3+%3A%3A+09%3A15_AM+CIVILIAN_MASQUERADE" alt="Chapter 3" />
 </h3>
 
-<p>
-  <i><font color="#a0a0a0">"Fluorescent classroom lights humming. Sitting in the back row with an oversized dark hoodie spinning a pen.<br>
-  To the room: a completely idle student. Beneath the desk: SSH'd into an Arch Linux server running background daemons."</font></i>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="34%" align="center" valign="middle">
+  <!-- LOCAL GUARANTEED BATMAN SILHOUETTE IN RAIN -->
+  <img src="https://raw.githubusercontent.com/al3x-X-y/al3x-X-y/main/assets/chapter3.gif" width="250" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Civilian Disguise" />
+</td>
+<td width="66%" valign="top">
+  <p>
+    <i><font color="#a0a0a0">"Fluorescent classroom lights humming. Sitting in the back row with an oversized dark hoodie spinning a pen.<br>
+    To the room: a completely idle student. Beneath the desk: SSH'd into an Arch Linux server running background daemons."</font></i>
+  </p>
 
-<!-- Civilian Rig Icons -->
-<p align="center">
-  <b><font color="#ff6680">〔 CIVILIAN INFILTRATION RIG // OS & DAEMONS 〕</font></b><br><br>
-  <img src="https://skillicons.dev/icons?i=arch,linux,docker,git&theme=dark" alt="Infiltration Rig" />
-</p>
+  <p align="center">
+    <b><font color="#ff6680">〔 CIVILIAN INFILTRATION RIG // OS & DAEMONS 〕</font></b><br><br>
+    <img src="https://skillicons.dev/icons?i=arch,linux,docker,git&theme=dark" alt="Infiltration Rig" />
+  </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/smi-mahtab/" target="_blank">
-    <img src="https://img.shields.io/badge/DOSSIER-VIEW_CIVILIAN_RECORD_(LINKEDIN)-ff0033?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=800010" alt="LinkedIn" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/smi-mahtab/" target="_blank">
+      <img src="https://img.shields.io/badge/DOSSIER-VIEW_CIVILIAN_RECORD_(LINKEDIN)-ff0033?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=800010" alt="LinkedIn" />
+    </a>
+  </p>
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════════════ ANIMATED CRIMSON LASER DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(4) brightness(0.95);" />
@@ -161,11 +170,11 @@ combat_log:
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td width="32%" align="center" valign="middle">
-  <!-- BATMAN IN RAIN / VIGILANTE -->
-  <img src="https://media1.giphy.com/media/EMpPEre2PqFy8/giphy.gif" width="240" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 10px #ff0033);" alt="Batman in Rain" />
+<td width="34%" align="center" valign="middle">
+  <!-- LOCAL GUARANTEED BATMAN AT TERMINAL CONSOLE -->
+  <img src="https://raw.githubusercontent.com/al3x-X-y/al3x-X-y/main/assets/batman-terminal.gif" width="250" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Batcomputer Terminal" />
 </td>
-<td width="68%" valign="top">
+<td width="66%" valign="top">
   <p>
     <i><font color="#a0a0a0">"Standing still in front of a lab terminal like a stone gargoyle. Battery at 0.4%.<br>
     Professor: 'Alex, you've been standing frozen for 3 minutes. Are you okay?' &bull; Alex: 'Just compiling, sir.'"</font></i>
@@ -201,12 +210,12 @@ combat_log:
   Followed by heavy iron conditioning with classified dark frequencies streaming through the headphones."</font></i>
 </p>
 
-<!-- TACTICAL BATMAN AUDIO CONSOLE WITH LIGHTNING GIF -->
+<!-- TACTICAL BATMAN AUDIO CONSOLE -->
 <table border="0" cellpadding="14" cellspacing="0" style="border: 2px solid #ff0033; background-color: #050505; border-radius: 12px; box-shadow: 0 0 15px rgba(255, 0, 51, 0.4); max-width: 680px;">
   <tr>
     <td align="center" width="90">
-      <!-- BATMAN LIGHTNING ANIMATION -->
-      <img src="https://media1.giphy.com/media/l0NwGpoOVLTAOGavu/giphy.gif" width="85" style="border-radius: 8px; border: 1px solid #ff0033;" alt="Batman Lightning" />
+      <!-- LOCAL GUARANTEED BATMAN LIGHTNING ANIMATION -->
+      <img src="https://raw.githubusercontent.com/al3x-X-y/al3x-X-y/main/assets/chapter4.gif" width="85" style="border-radius: 8px; border: 1px solid #ff0033;" alt="Batman Lightning" />
     </td>
     <td align="left">
       <b><font color="#ff0033">🦇 BATCAVE_FREQ_99.4 ::</font></b> <font color="#ffffff"><i>Dark Gotham Focus Beats & Synthetic Ambience</i></font><br>
@@ -235,38 +244,47 @@ combat_log:
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=650&height=35&lines=CHAPTER_6+%3A%3A+10%3A15_PM+BAT_SIGNAL_IGNITES" alt="Chapter 6" />
 </h3>
 
-<p>
-  <i><font color="#a0a0a0">"Return to base. The apartment goes black. The monitors flare crimson. A high-priority signal flashes across the ceiling.<br>
-  <b>[BRIEFING INCOMING] :: HIGH-STAKES ENCOUNTER INITIATED.</b> All communication frequencies are now open:"</font></i>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="34%" align="center" valign="middle">
+  <!-- LOCAL GUARANTEED BAT-SIGNAL FLARE GIF -->
+  <img src="https://raw.githubusercontent.com/al3x-X-y/al3x-X-y/main/assets/chapter6.gif" width="250" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Bat-Signal" />
+</td>
+<td width="66%" valign="top">
+  <p>
+    <i><font color="#a0a0a0">"Return to base. The apartment goes black. The monitors flare crimson. A high-priority signal flashes across the ceiling.<br>
+    <b>[BRIEFING INCOMING] :: HIGH-STAKES ENCOUNTER INITIATED.</b> All communication frequencies are now open:"</font></i>
+  </p>
 
-<!-- All 6 Comms Matrix -->
-<p align="center">
-  <a href="https://calendly.com/thewatchtimestudio/30min" target="_blank">
-    <img src="https://img.shields.io/badge/%E2%8F%B3_SCHEDULE_ENCOUNTER-Calendly_30min-ff0033?style=for-the-badge&labelColor=000000&color=400008" alt="Calendly" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@TheWatchTimeStudio" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8E%AC_VISUAL_BROADCAST-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000&color=800010" alt="YouTube" />
-  </a>
-  &nbsp;
-  <a href="mailto:thewatchtimestudio@gmail.com">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A9_SECURE_MAIL-thewatchtimestudio-ff0033?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=800010" alt="Email" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/smi-mahtab/" target="_blank">
-    <img src="https://img.shields.io/badge/DOSSIER-smi--mahtab-ff0033?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=800010" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/al3x_x_y/" target="_blank">
-    <img src="https://img.shields.io/badge/LOGS-al3x__x__y-ff0033?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&color=800010" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/al3x_X_y" target="_blank">
-    <img src="https://img.shields.io/badge/ARENA-al3x__X__y-ff0033?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000&color=800010" alt="Codeforces" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://calendly.com/thewatchtimestudio/30min" target="_blank">
+      <img src="https://img.shields.io/badge/%E2%8F%B3_SCHEDULE_ENCOUNTER-Calendly_30min-ff0033?style=for-the-badge&labelColor=000000&color=400008" alt="Calendly" />
+    </a>
+    &nbsp;
+    <a href="https://www.youtube.com/@TheWatchTimeStudio" target="_blank">
+      <img src="https://img.shields.io/badge/%F0%9F%8E%AC_VISUAL_BROADCAST-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000&color=800010" alt="YouTube" />
+    </a>
+    &nbsp;
+    <a href="mailto:thewatchtimestudio@gmail.com">
+      <img src="https://img.shields.io/badge/%F0%9F%93%A9_SECURE_MAIL-thewatchtimestudio-ff0033?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=800010" alt="Email" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/smi-mahtab/" target="_blank">
+      <img src="https://img.shields.io/badge/DOSSIER-smi--mahtab-ff0033?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=800010" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://www.instagram.com/al3x_x_y/" target="_blank">
+      <img src="https://img.shields.io/badge/LOGS-al3x__x__y-ff0033?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&color=800010" alt="Instagram" />
+    </a>
+    &nbsp;
+    <a href="https://codeforces.com/profile/al3x_X_y" target="_blank">
+      <img src="https://img.shields.io/badge/ARENA-al3x__X__y-ff0033?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000&color=800010" alt="Codeforces" />
+    </a>
+  </p>
+</td>
+</tr>
+</table>
 
 <!-- ═══════════════════════ ANIMATED CRIMSON LASER DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(4) brightness(0.95);" />
