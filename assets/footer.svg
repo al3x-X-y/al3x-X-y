@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="120" viewBox="0 0 850 120">
+    <defs>
+        <linearGradient id="bgFade" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#0a0a0f" stop-opacity="0" />
+            <stop offset="25%" stop-color="#0a0a0f" stop-opacity="1" />
+            <stop offset="100%" stop-color="#0a0a0f" stop-opacity="1" />
+        </linearGradient>
+    </defs>
+    
+    <style>
+        @keyframes twinkle {
+            0%, 100% { opacity: 0.2; }
+            50% { opacity: 1; }
+        }
+        .star {
+            fill: #ffffff;
+            animation: twinkle 3s infinite ease-in-out;
+        }
+        .star1 { animation-duration: 2.5s; animation-delay: 0.2s; }
+        .star2 { animation-duration: 4s; animation-delay: 1.5s; }
+        .star3 { animation-duration: 3.2s; animation-delay: 0.8s; }
+        
+        .window {
+            animation: twinkle 4s infinite alternate;
+        }
+        .w1 { fill: #00e5ff; animation-duration: 2s; animation-delay: 0.5s; }
+        .w2 { fill: #ff006e; animation-duration: 3s; animation-delay: 1.2s; }
+        .w3 { fill: #00e5ff; animation-duration: 5s; animation-delay: 0.1s; }
+        .w4 { fill: #ff006e; animation-duration: 2.5s; animation-delay: 2s; }
+        .w5 { fill: #00e5ff; animation-duration: 4.5s; animation-delay: 1s; }
+        .w6 { fill: #ff006e; animation-duration: 3.5s; animation-delay: 0.7s; }
+        
+        .text {
+            font-family: monospace;
+            font-size: 11px;
+            fill: #8b949e;
+            text-anchor: middle;
+        }
+    </style>
+
+    <!-- Background -->
+    <rect width="850" height="120" fill="url(#bgFade)" />
+
+    <!-- Stars -->
+    <circle cx="50" cy="20" r="1.5" class="star star1" />
+    <circle cx="120" cy="40" r="1" class="star star2" />
+    <circle cx="180" cy="15" r="2" class="star star3" />
+    <circle cx="250" cy="35" r="1.5" class="star star1" />
+    <circle cx="320" cy="25" r="1" class="star star2" />
+    <circle cx="400" cy="45" r="2" class="star star3" />
+    <circle cx="480" cy="15" r="1.5" class="star star1" />
+    <circle cx="550" cy="30" r="1" class="star star2" />
+    <circle cx="620" cy="20" r="2" class="star star3" />
+    <circle cx="700" cy="40" r="1.5" class="star star1" />
+    <circle cx="780" cy="15" r="1" class="star star2" />
+    <circle cx="820" cy="35" r="2" class="star star3" />
+    <circle cx="90" cy="60" r="1" class="star star1" />
+    <circle cx="280" cy="65" r="1.5" class="star star2" />
+    <circle cx="510" cy="55" r="1" class="star star3" />
+    <circle cx="740" cy="60" r="1.5" class="star star1" />
+    <circle cx="80" cy="10" r="1" class="star star2" />
+    <circle cx="350" cy="12" r="1.5" class="star star3" />
+    <circle cx="650" cy="8" r="1" class="star star1" />
+    <circle cx="800" cy="50" r="1.5" class="star star2" />
+
+    <!-- Cityscape -->
+    <!-- Buildings -->
+    <rect x="0" y="80" width="40" height="40" fill="#161b22" />
+    <rect x="30" y="60" width="50" height="60" fill="#161b22" />
+    <rect x="70" y="45" width="40" height="75" fill="#161b22" />
+    <rect x="100" y="70" width="45" height="50" fill="#161b22" />
+    <rect x="135" y="30" width="35" height="90" fill="#161b22" />
+    <rect x="160" y="55" width="55" height="65" fill="#161b22" />
+    <rect x="205" y="85" width="45" height="35" fill="#161b22" />
+    <rect x="240" y="40" width="40" height="80" fill="#161b22" />
+    <rect x="270" y="65" width="50" height="55" fill="#161b22" />
+    <rect x="310" y="50" width="35" height="70" fill="#161b22" />
+    <rect x="335" y="75" width="45" height="45" fill="#161b22" />
+    <rect x="370" y="25" width="40" height="95" fill="#161b22" />
+    <rect x="400" y="60" width="55" height="60" fill="#161b22" />
+    <rect x="445" y="45" width="35" height="75" fill="#161b22" />
+    <rect x="470" y="80" width="50" height="40" fill="#161b22" />
+    <rect x="510" y="35" width="45" height="85" fill="#161b22" />
+    <rect x="545" y="65" width="40" height="55" fill="#161b22" />
+    <rect x="575" y="50" width="55" height="70" fill="#161b22" />
+    <rect x="620" y="75" width="35" height="45" fill="#161b22" />
+    <rect x="645" y="40" width="45" height="80" fill="#161b22" />
+    <rect x="680" y="60" width="50" height="60" fill="#161b22" />
+    <rect x="720" y="30" width="40" height="90" fill="#161b22" />
+    <rect x="750" y="80" width="45" height="40" fill="#161b22" />
+    <rect x="785" y="55" width="55" height="65" fill="#161b22" />
+    <rect x="830" y="70" width="20" height="50" fill="#161b22" />
+
+    <!-- Windows -->
+    <rect x="40" y="70" width="4" height="4" class="window w1" />
+    <rect x="55" y="80" width="6" height="4" class="window w2" />
+    <rect x="80" y="55" width="5" height="8" class="window w3" />
+    <rect x="90" y="70" width="4" height="6" class="window w4" />
+    <rect x="110" y="80" width="8" height="4" class="window w5" />
+    <rect x="140" y="45" width="5" height="5" class="window w6" />
+    <rect x="145" y="65" width="6" height="4" class="window w1" />
+    <rect x="175" y="65" width="4" height="6" class="window w2" />
+    <rect x="190" y="85" width="5" height="4" class="window w3" />
+    <rect x="220" y="95" width="6" height="3" class="window w4" />
+    <rect x="250" y="55" width="5" height="6" class="window w5" />
+    <rect x="260" y="75" width="4" height="8" class="window w6" />
+    <rect x="285" y="80" width="6" height="4" class="window w1" />
+    <rect x="315" y="65" width="4" height="5" class="window w2" />
+    <rect x="345" y="85" width="5" height="5" class="window w3" />
+    <rect x="380" y="40" width="6" height="4" class="window w4" />
+    <rect x="390" y="65" width="4" height="6" class="window w5" />
+    <rect x="415" y="75" width="7" height="4" class="window w6" />
+    <rect x="435" y="90" width="5" height="5" class="window w1" />
+    <rect x="455" y="60" width="4" height="8" class="window w2" />
+    <rect x="480" y="95" width="6" height="3" class="window w3" />
+    <rect x="520" y="50" width="5" height="6" class="window w4" />
+    <rect x="535" y="75" width="4" height="4" class="window w5" />
+    <rect x="560" y="80" width="6" height="5" class="window w6" />
+    <rect x="590" y="65" width="5" height="7" class="window w1" />
+    <rect x="610" y="85" width="4" height="4" class="window w2" />
+    <rect x="630" y="90" width="6" height="3" class="window w3" />
+    <rect x="655" y="55" width="5" height="6" class="window w4" />
+    <rect x="670" y="80" width="4" height="5" class="window w5" />
+    <rect x="695" y="75" width="6" height="4" class="window w6" />
+    <rect x="730" y="45" width="5" height="5" class="window w1" />
+    <rect x="740" y="70" width="4" height="7" class="window w2" />
+    <rect x="765" y="95" width="5" height="3" class="window w3" />
+    <rect x="795" y="70" width="6" height="4" class="window w4" />
+    <rect x="815" y="90" width="4" height="5" class="window w5" />
+    <rect x="835" y="85" width="5" height="4" class="window w6" />
+
+    <!-- Text Background to ensure readability over buildings -->
+    <rect x="0" y="105" width="850" height="15" fill="#0a0a0f" opacity="0.8" />
+    <!-- Text -->
+    <text x="425" y="115" class="text">&lt; crafted with mass amounts of caffeine /&gt;</text>
+</svg>

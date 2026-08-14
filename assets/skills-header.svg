@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 50" width="400" height="50">
+  <defs>
+    <style>
+      .text-code {
+        font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "Courier New", monospace;
+        font-size: 20px;
+        font-weight: 600;
+        fill: #00e5ff;
+        dominant-baseline: central;
+        text-anchor: middle;
+      }
+      .bracket {
+        font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", "Courier New", monospace;
+        font-size: 22px;
+        font-weight: 700;
+        fill: #ff006e;
+        dominant-baseline: central;
+        text-anchor: middle;
+        transform-origin: center;
+        transform-box: fill-box;
+        animation: pulse 2s ease-in-out infinite;
+      }
+      .cursor {
+        fill: #00e5ff;
+        animation: blink 1s ease-in-out infinite;
+      }
+      @keyframes pulse {
+        0%, 100% {
+          transform: scale(1);
+        }
+        50% {
+          transform: scale(1.1);
+        }
+      }
+      @keyframes blink {
+        0%, 100% {
+          opacity: 0;
+        }
+        50% {
+          opacity: 1;
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Left Bracket '{' -->
+  <g transform="translate(50, 25)">
+    <g class="bracket">
+      <animateTransform
+        attributeName="transform"
+        type="scale"
+        values="1; 1.1; 1"
+        keyTimes="0; 0.5; 1"
+        dur="2s"
+        repeatCount="indefinite"
+      />
+      <text x="0" y="0">{</text>
+    </g>
+  </g>
+
+  <!-- Centered Tech Stack Text -->
+  <text class="text-code" x="200" y="25">⚙️ tech_stack.load()</text>
+
+  <!-- Blinking Cursor -->
+  <rect class="cursor" x="318" y="15" width="2" height="20" rx="1">
+    <animate
+      attributeName="opacity"
+      values="0; 1; 0"
+      keyTimes="0; 0.5; 1"
+      dur="1s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+  <!-- Right Bracket '}' -->
+  <g transform="translate(350, 25)">
+    <g class="bracket">
+      <animateTransform
+        attributeName="transform"
+        type="scale"
+        values="1; 1.1; 1"
+        keyTimes="0; 0.5; 1"
+        dur="2s"
+        repeatCount="indefinite"
+      />
+      <text x="0" y="0">}</text>
+    </g>
+  </g>
+</svg>

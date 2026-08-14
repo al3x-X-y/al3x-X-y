@@ -1,82 +1,282 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--               al3x-X-y  ·  cyberpunk profile  ·  v2.0               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=al3x-X-y&"  />
-
-
-<a href="https://wakatime.com/@33f67ced-9997-4f06-b228-ad7141d0071e"><img src="https://wakatime.com/badge/user/33f67ced-9997-4f06-b228-ad7141d0071e.svg" alt="Total time coded since Jul 14 2023"  alt="wakatime" alt="Total time coded since Mar 18 2023" /></a>
+  <img src="./assets/header.svg" alt="al3x-X-y header" width="850" />
 </div>
 
-###
-
-<h1 align="center">hey there 👋, I'm al3x-X-y</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
-- 🌱 I’m currently learning **C++ and DSA**
-
-- 💬 Ask me about **basic C and Linux**
-
-- 📫 How to reach me **alexd2d.01@gmail.com**
-
-- ⚡ Fun fact **I love Linux and Window Managers**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://codeforces.com/profile/al3x_X_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="1sraQ" height="30" width="40" /></a>
-
-</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+<!-- ─── DIVIDER ───────────────────────────────────────────────────────── -->
+<div align="center">
+  <img src="./assets/divider.svg" width="850" />
 </div>
-<div align="left">
+
+<!-- ─── TYPING ANIMATION ─────────────────────────────────────────────── -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%24+whoami;al3x-X-y+%E2%94%82+C%2B%2B+%C2%B7+DSA+%C2%B7+Linux+%C2%B7+Systems)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
+<!-- ─── BADGES ────────────────────────────────────────────────────────── -->
+<div align="center">
+
+  <a href="https://wakatime.com/@33f67ced-9997-4f06-b228-ad7141d0071e">
+    <img src="https://wakatime.com/badge/user/33f67ced-9997-4f06-b228-ad7141d0071e.svg?style=for-the-badge&color=0a0a0f&labelColor=00e5ff" alt="wakatime" />
+  </a>
+  &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=al3x-X-y&left_color=0a0a0f&right_color=00e5ff&left_text=visitors" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/al3x-X-y?style=for-the-badge&color=0a0a0f&labelColor=00e5ff&logo=github&logoColor=0a0a0f" />
+
+</div>
+
+<br>
+
+<!-- ─── DIVIDER ───────────────────────────────────────────────────────── -->
+<div align="center">
+  <img src="./assets/divider.svg" width="850" />
+</div>
+
+<br>
+
+<!-- ─── ABOUT ME ──────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+```js
+// ┌──────────────────────────────────────────────────────┐
+// │  $ cat ~/al3x/.profile                               │
+// └──────────────────────────────────────────────────────┘
+
+const mass = {
+    name:         "al3x-X-y",
+    title:        "Systems Thinker & Linux Nerd",
+    location:     "somewhere on the interwebs",
+
+    learning:     ["C++", "Data Structures & Algorithms"],
+    askMeAbout:   ["C", "Linux", "Window Managers", "Ricing"],
+    contact:      "alexd2d.01@gmail.com",
+
+    environment: {
+        os:       "Linux  ─  tiling WM enthusiast",
+        editor:   "Neovim / VS Code",
+        shell:    "zsh + starship prompt",
+        theme:    "catppuccin mocha 🐈‍⬛"
+    },
+
+    status:       "compiling life one commit at a time..."
+};
+```
+
+</div>
+
+<br>
+
+<!-- ─── DIVIDER ───────────────────────────────────────────────────────── -->
+<div align="center">
+  <img src="./assets/divider.svg" width="850" />
+</div>
+
+<br>
+
+<!-- ─── TECH STACK ────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <img src="./assets/skills-header.svg" width="400" />
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Row 1: Languages & Core -->
+<a href="#"><img src="https://skillicons.dev/icons?i=cpp,c,java,bash&theme=dark" alt="Languages" /></a>
+
+<br><br>
+
+<!-- Row 2: Tools & Platforms -->
+<a href="#"><img src="https://skillicons.dev/icons?i=linux,arch,docker,git&theme=dark" alt="Tools" /></a>
+
+<br><br>
+
+<!-- Row 3: Editors & Workflow -->
+<a href="#"><img src="https://skillicons.dev/icons?i=neovim,vim,vscode,github&theme=dark" alt="Editors" /></a>
+
+</div>
+
+<br>
+
+<!-- ─── DIVIDER ───────────────────────────────────────────────────────── -->
+<div align="center">
+  <img src="./assets/divider.svg" width="850" />
+</div>
+
+<br>
+
+<!-- ─── COMPETITIVE PROGRAMMING ──────────────────────────────────────── -->
+
+<div align="center">
+
+  <a href="https://codeforces.com/profile/al3x_X_y">
+    <img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F_Codeforces-al3x__X__y-00e5ff?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a0a0f&color=161b22" alt="Codeforces"/>
+  </a>
+
+</div>
+
+<br>
+
+<!-- ─── DIVIDER ───────────────────────────────────────────────────────── -->
+<div align="center">
+  <img src="./assets/divider.svg" width="850" />
+</div>
+
+<br>
+
+<!-- ─── GITHUB STATS ─────────────────────────────────────────────────── -->
+
+<div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3x-X-y&layout=compact&$disable_animations=false&border_radius=5&border_color=000000$disable_animations=false&show_icons=true&theme=github_dark)
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=3000&color=00E5FF&center=true&vCenter=true&repeat=true&width=250&height=30&lines=%F0%9F%93%8A+git+log+--stat" />
+  </h3>
+
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=al3x-X-y&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=al3x-X-y&show_icons=true&bg_color=0a0a0f&hide_border=true&icon_color=00e5ff&title_color=00e5ff&text_color=8b949e&ring_color=00e5ff&border_radius=16&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3x-X-y&layout=compact&bg_color=0a0a0f&hide_border=true&title_color=00e5ff&text_color=8b949e&border_radius=16&langs_count=8" alt="Top Languages" />
+
 </div>
 
-###
+<br>
+
+<div align="center">
+
+  <img width="600" src="https://streak-stats.demolab.com?user=al3x-X-y&hide_border=true&background=0A0A0F&ring=00E5FF&fire=FF006E&currStreakLabel=00E5FF&sideLabels=8B949E&currStreakNum=E0E0E0&sideNums=E0E0E0&dates=8B949E&border_radius=16&stroke=161b22" alt="GitHub Streak" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=al3x-X-y&bg_color=0a0a0f&color=00e5ff&line=ff006e&point=00e5ff&area=true&area_color=00e5ff&hide_border=true&custom_title=%E2%96%93%20contribution%20frequency&radius=16" alt="Activity Graph" />
+
+</div>
+
+<br>
+
+<!-- ─── DIVIDER ───────────────────────────────────────────────────────── -->
+<div align="center">
+  <img src="./assets/divider.svg" width="850" />
+</div>
+
+<br>
+
+<!-- ─── CONTRIBUTION SNAKE ───────────────────────────────────────────── -->
+
+<div align="center">
+
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=3000&color=00E5FF&center=true&vCenter=true&repeat=true&width=320&height=30&lines=%F0%9F%90%8D+contributions.animate()" />
+  </h3>
+
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/al3x-X-y/al3x-X-y/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/al3x-X-y/al3x-X-y/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/al3x-X-y/al3x-X-y/output/github-snake-dark.svg" width="800" />
+  </picture>
+</div>
+
+<br>
+
+<!-- ─── DIVIDER ───────────────────────────────────────────────────────── -->
+<div align="center">
+  <img src="./assets/divider.svg" width="850" />
+</div>
+
+<br>
+
+<!-- ─── NOW PLAYING ──────────────────────────────────────────────────── -->
+
+<div align="center">
+
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=3000&color=00E5FF&center=true&vCenter=true&repeat=true&width=250&height=30&lines=%F0%9F%8E%A7+now_playing.sh" />
+  </h3>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./assets/now-playing.svg" width="480" alt="Now Playing" />
+</div>
+
+<br>
+
+<!-- ─── DIVIDER ───────────────────────────────────────────────────────── -->
+<div align="center">
+  <img src="./assets/divider.svg" width="850" />
+</div>
+
+<br>
+
+<!-- ─── CONNECT ───────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=3000&color=00E5FF&center=true&vCenter=true&repeat=true&width=250&height=30&lines=%F0%9F%94%97+connect.sh" />
+  </h3>
+
+</div>
+
+<br>
+
+<div align="center">
+  
+  <a href="mailto:alexd2d.01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-alexd2d.01-00e5ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f&color=161b22" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/al3x-x-y/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-al3x--X--y-00e5ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f&color=161b22" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-al3x__X__y-00e5ff?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0a0f&color=161b22" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-al3x--X--y-00e5ff?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0a0a0f&color=161b22" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/al3x_X_y" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-al3x__X__y-00e5ff?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a0a0f&color=161b22" />
+  </a>
+
+</div>
+
+<br><br>
+
+<!-- ─── FOOTER ────────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <img src="./assets/footer.svg" alt="footer" width="850" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->

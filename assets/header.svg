@@ -1,0 +1,145 @@
+<svg width="850" height="280" viewBox="0 0 850 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="neonLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent" />
+      <stop offset="50%" stop-color="#00e5ff" />
+      <stop offset="100%" stop-color="transparent" />
+    </linearGradient>
+
+    <pattern id="scanlines" width="4" height="3" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="4" height="1" fill="#ffffff" opacity="0.03"/>
+    </pattern>
+
+    <style>
+      .title-text {
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 700;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+      
+      .subtitle-text {
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 400;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+      
+      .jp-text {
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 900;
+        user-select: none;
+      }
+    </style>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="850" height="280" fill="#0a0a0f" />
+
+  <!-- Background Elements (Japanese Text) -->
+  <text x="730" y="90" class="jp-text" font-size="70" fill="#ffffff" opacity="0.04" transform="rotate(10 730 90)">電脳</text>
+  <text x="80" y="240" class="jp-text" font-size="90" fill="#ffffff" opacity="0.03" transform="rotate(-15 80 240)">システム</text>
+
+  <!-- Particles -->
+  <g>
+    <!-- Particle 1 -->
+    <circle cx="150" cy="280" r="1.5" fill="#00e5ff" opacity="0">
+      <animate attributeName="cy" values="280;-10" dur="7s" repeatCount="indefinite" begin="0s"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="7s" repeatCount="indefinite" begin="0s"/>
+      <animate attributeName="cx" values="150;130;160;140" dur="7s" repeatCount="indefinite" begin="0s"/>
+    </circle>
+    <!-- Particle 2 -->
+    <circle cx="280" cy="280" r="2" fill="#00e5ff" opacity="0">
+      <animate attributeName="cy" values="280;-10" dur="9s" repeatCount="indefinite" begin="2s"/>
+      <animate attributeName="opacity" values="0;0.5;0" dur="9s" repeatCount="indefinite" begin="2s"/>
+      <animate attributeName="cx" values="280;300;270;290" dur="9s" repeatCount="indefinite" begin="2s"/>
+    </circle>
+    <!-- Particle 3 -->
+    <circle cx="450" cy="280" r="1" fill="#00e5ff" opacity="0">
+      <animate attributeName="cy" values="280;-10" dur="5s" repeatCount="indefinite" begin="1s"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="5s" repeatCount="indefinite" begin="1s"/>
+      <animate attributeName="cx" values="450;460;445;455" dur="5s" repeatCount="indefinite" begin="1s"/>
+    </circle>
+    <!-- Particle 4 -->
+    <circle cx="620" cy="280" r="1.5" fill="#00e5ff" opacity="0">
+      <animate attributeName="cy" values="280;-10" dur="8s" repeatCount="indefinite" begin="3.5s"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="8s" repeatCount="indefinite" begin="3.5s"/>
+      <animate attributeName="cx" values="620;600;630;610" dur="8s" repeatCount="indefinite" begin="3.5s"/>
+    </circle>
+    <!-- Particle 5 -->
+    <circle cx="750" cy="280" r="2" fill="#00e5ff" opacity="0">
+      <animate attributeName="cy" values="280;-10" dur="11s" repeatCount="indefinite" begin="0.5s"/>
+      <animate attributeName="opacity" values="0;0.4;0" dur="11s" repeatCount="indefinite" begin="0.5s"/>
+      <animate attributeName="cx" values="750;770;740;760" dur="11s" repeatCount="indefinite" begin="0.5s"/>
+    </circle>
+    <!-- Particle 6 -->
+    <circle cx="50" cy="280" r="1" fill="#00e5ff" opacity="0">
+      <animate attributeName="cy" values="280;-10" dur="6s" repeatCount="indefinite" begin="4s"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="6s" repeatCount="indefinite" begin="4s"/>
+      <animate attributeName="cx" values="50;35;55;45" dur="6s" repeatCount="indefinite" begin="4s"/>
+    </circle>
+    <!-- Particle 7 -->
+    <circle cx="380" cy="280" r="1.5" fill="#00e5ff" opacity="0">
+      <animate attributeName="cy" values="280;-10" dur="7.5s" repeatCount="indefinite" begin="2.5s"/>
+      <animate attributeName="opacity" values="0;0.5;0" dur="7.5s" repeatCount="indefinite" begin="2.5s"/>
+      <animate attributeName="cx" values="380;395;370;385" dur="7.5s" repeatCount="indefinite" begin="2.5s"/>
+    </circle>
+    <!-- Particle 8 -->
+    <circle cx="530" cy="280" r="1" fill="#00e5ff" opacity="0">
+      <animate attributeName="cy" values="280;-10" dur="5.5s" repeatCount="indefinite" begin="1.5s"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="5.5s" repeatCount="indefinite" begin="1.5s"/>
+      <animate attributeName="cx" values="530;515;535;525" dur="5.5s" repeatCount="indefinite" begin="1.5s"/>
+    </circle>
+  </g>
+
+  <!-- Glitch Text Group -->
+  <g transform="translate(425, 120)">
+    <!-- Cyan Glitch Shadow -->
+    <text class="title-text" font-size="52" fill="#00e5ff" opacity="0.7">
+      al3x-X-y
+      <animate attributeName="x" values="0; -4; 4; -2; 0; 0; -5; 3; 0" dur="3s" repeatCount="indefinite" keyTimes="0; 0.05; 0.1; 0.15; 0.2; 0.7; 0.75; 0.8; 1" />
+      <animate attributeName="y" values="0; 2; -2; 1; 0; 0; 3; -1; 0" dur="3s" repeatCount="indefinite" keyTimes="0; 0.05; 0.1; 0.15; 0.2; 0.7; 0.75; 0.8; 1" />
+      <animate attributeName="opacity" values="0; 0.8; 0.8; 0.8; 0; 0; 0.9; 0.9; 0" dur="3s" repeatCount="indefinite" keyTimes="0; 0.05; 0.1; 0.15; 0.2; 0.7; 0.75; 0.8; 1" />
+    </text>
+    
+    <!-- Red Glitch Shadow -->
+    <text class="title-text" font-size="52" fill="#ff006e" opacity="0.7">
+      al3x-X-y
+      <animate attributeName="x" values="0; 4; -3; 3; 0; 0; 5; -4; 0" dur="3.5s" repeatCount="indefinite" keyTimes="0; 0.05; 0.1; 0.15; 0.2; 0.8; 0.85; 0.9; 1" />
+      <animate attributeName="y" values="0; -2; 3; -1; 0; 0; -3; 2; 0" dur="3.5s" repeatCount="indefinite" keyTimes="0; 0.05; 0.1; 0.15; 0.2; 0.8; 0.85; 0.9; 1" />
+      <animate attributeName="opacity" values="0; 0.8; 0.8; 0.8; 0; 0; 0.9; 0.9; 0" dur="3.5s" repeatCount="indefinite" keyTimes="0; 0.05; 0.1; 0.15; 0.2; 0.8; 0.85; 0.9; 1" />
+    </text>
+
+    <!-- Main Text -->
+    <text class="title-text" font-size="52" fill="#ffffff">
+      al3x-X-y
+      <animate attributeName="x" values="0; -1; 1; 0; 0; 0; -2; 1; 0" dur="3s" repeatCount="indefinite" keyTimes="0; 0.05; 0.1; 0.15; 0.2; 0.7; 0.75; 0.8; 1" />
+    </text>
+  </g>
+
+  <!-- Subtitle -->
+  <text x="425" y="175" class="subtitle-text" font-size="14" fill="#8b949e" letter-spacing="2">
+    systems programmer · linux enthusiast · code artisan
+    <animate attributeName="opacity" values="0.7; 1; 0.7" dur="4s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Neon Line at bottom -->
+  <rect x="50" y="278" width="750" height="2" fill="url(#neonLine)">
+    <animate attributeName="opacity" values="0.3; 1; 0.3" dur="4s" repeatCount="indefinite" />
+  </rect>
+  <!-- Glow for neon line -->
+  <rect x="50" y="277" width="750" height="4" fill="url(#neonLine)" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.1; 0.7; 0.1" dur="4s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Scanlines Overlay -->
+  <rect width="850" height="280" fill="url(#scanlines)" pointer-events="none" />
+</svg>
