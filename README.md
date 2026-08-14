@@ -5,7 +5,7 @@
 
 <br>
 
-<!-- ═══════════════════════ READABLE TELEMETRY TYPING (SINGLE LINE // NO OVERLAP) ═══════════════════════ -->
+<!-- ═══════════════════════ READABLE TELEMETRY TYPING ═══════════════════════ -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=1200&color=FF0033&center=true&vCenter=true&repeat=true&width=800&height=40&lines=%E2%96%B6+%5BBAT_PROTOCOL_999%5D+Classified+24H+Incident+Report;%E2%96%B6+%22Wait...+when+did+he+build+all+this%3F%22+%E2%86%92+%22I've+been+working+on+it.%22;%E2%96%B6+SYS_STATUS+%3A+Looks+completely+idle+%7C+Actually+building+an+empire;%E2%96%B6+HAZARD_ALERT+%3A+Trapped+in+a+400-layer+Adobe+timeline.+Send+RAM." alt="Batcomputer Output" />
 </a>
@@ -23,6 +23,24 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=al3x-X-y&left_color=000000&right_color=ff0033&left_text=%E2%97%88%20radar_hits" alt="Radar Hits" />
 </p>
 
+<!-- ═══════════════════════ CHAPTER NAVIGATION HUD ═══════════════════════ -->
+<table border="0" cellpadding="6" cellspacing="0" style="border: 1px solid #ff0033; background-color: #050505; border-radius: 8px;">
+  <tr>
+    <td align="center">
+      <font color="#808080"><b>🦇 TIMELINE HUD // JUMP TO LOG :</b></font><br>
+      <a href="#chapter-1"><font color="#ff0033"><b>[ 02:14 AM : TIMELINE WAR ]</b></font></a> &bull;
+      <a href="#chapter-2"><font color="#ff0033"><b>[ 05:14 AM : BATCAVE COLLAPSE ]</b></font></a> &bull;
+      <a href="#chapter-3"><font color="#ff0033"><b>[ 09:15 AM : CIVILIAN MASQUERADE ]</b></font></a> &bull;
+      <a href="#chapter-4"><font color="#ff0033"><b>[ 01:30 PM : ZOMBIE REFACTOR ]</b></font></a> &bull;
+      <a href="#chapter-5"><font color="#ff0033"><b>[ 06:45 PM : BUS & IRON ]</b></font></a> &bull;
+      <a href="#chapter-6"><font color="#ff0033"><b>[ 10:15 PM : BAT-SIGNAL ]</b></font></a> &bull;
+      <a href="#chapter-7"><font color="#ff0033"><b>[ 01:50 AM : THE AMBUSH ]</b></font></a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <!-- ═══════════════════════ ANIMATED CRIMSON LASER DIVIDER ═══════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(4) brightness(0.95);" />
 
@@ -34,6 +52,7 @@
 <!--         CHAPTER 1 // 02:14 AM ── THE TIMELINE SECTOR (CLIENT WARS)       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
+<a name="chapter-1"></a>
 <div align="center">
   <h3>
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=600&height=35&lines=CHAPTER_1+%3A%3A+02%3A14_AM+THE_TIMELINE_WAR" alt="Chapter 1" />
@@ -44,7 +63,7 @@
 <tr>
 <td width="38%" align="center" valign="middle">
   <!-- CHAPTER 1: THE BATMAN RED FLARE -->
-  <img src="assets/chapter1.gif" width="300" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) brightness(0.9) drop-shadow(0 0 14px #ff0033);" alt="The Batman Red Flare" />
+  <img src="./assets/chapter1.gif" width="300" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) brightness(0.9) drop-shadow(0 0 14px #ff0033);" alt="The Batman Red Flare" />
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=11&duration=2500&pause=1000&color=FF0033&center=true&vCenter=true&repeat=true&width=280&height=24&lines=%5B%E2%9A%A0%5D+RAM_OVERFLOW%3A+99%25;%5B%E2%9A%A0%5D+AFTER_EFFECTS_CRASH_DEFUSED" alt="Warning" />
 </td>
@@ -85,26 +104,34 @@ combat_log:
 </tr>
 </table>
 
-<br>
-
+<!-- CHAPTER 1 -> CHAPTER 2 TRANSITION LINK -->
 <div align="center">
+  <br>
+  <a href="#chapter-2">
+    <img src="https://img.shields.io/badge/%E2%96%BC_PROCEED_TO_CHAPTER_2_%3A%3A_05%3A14_AM_BATCAVE_COLLAPSE_%E2%96%BC-050505?style=flat-square&color=ff0033" alt="Next Chapter" />
+  </a>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(4) brightness(0.95);" />
+</div>
 
-<!-- ═══════════════════════ ANIMATED CRIMSON LASER DIVIDER ═══════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(4) brightness(0.95);" />
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--         CHAPTER 2 // 05:14 AM ── THE BATCAVE COLLAPSE                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=600&height=35&lines=CHAPTER_2+%3A%3A+05%3A14_AM+BATCAVE_COLLAPSE" alt="Chapter 2" />
-</h3>
+<a name="chapter-2"></a>
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=600&height=35&lines=CHAPTER_2+%3A%3A+05%3A14_AM+BATCAVE_COLLAPSE" alt="Chapter 2" />
+  </h3>
+</div>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="34%" align="center" valign="middle">
   <!-- CHAPTER 2: BATCAVE MONITORS & RETREAT -->
-  <img src="assets/chapter2.gif" width="250" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Batcave Collapse" />
+  <img src="./assets/chapter2.gif" width="260" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Batcave Collapse" />
 </td>
 <td width="66%" valign="top">
   <p>
@@ -120,22 +147,34 @@ combat_log:
 </tr>
 </table>
 
-<!-- ═══════════════════════ ANIMATED CRIMSON LASER DIVIDER ═══════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(4) brightness(0.95);" />
+<!-- CHAPTER 2 -> CHAPTER 3 TRANSITION LINK -->
+<div align="center">
+  <br>
+  <a href="#chapter-3">
+    <img src="https://img.shields.io/badge/%E2%96%BC_PROCEED_TO_CHAPTER_3_%3A%3A_09%3A15_AM_CIVILIAN_MASQUERADE_%E2%96%BC-050505?style=flat-square&color=ff0033" alt="Next Chapter" />
+  </a>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(4) brightness(0.95);" />
+</div>
+
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--         CHAPTER 3 // 09:15 AM ── THE CIVILIAN MASQUERADE                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=650&height=35&lines=CHAPTER_3+%3A%3A+09%3A15_AM+CIVILIAN_MASQUERADE" alt="Chapter 3" />
-</h3>
+<a name="chapter-3"></a>
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=650&height=35&lines=CHAPTER_3+%3A%3A+09%3A15_AM+CIVILIAN_MASQUERADE" alt="Chapter 3" />
+  </h3>
+</div>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="34%" align="center" valign="middle">
   <!-- CHAPTER 3: BATMAN SILHOUETTE IN RAIN -->
-  <img src="assets/chapter3.gif" width="250" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Civilian Disguise" />
+  <img src="./assets/chapter3.gif" width="260" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Civilian Disguise" />
 </td>
 <td width="66%" valign="top">
   <p>
@@ -157,22 +196,34 @@ combat_log:
 </tr>
 </table>
 
-<!-- ═══════════════════════ ANIMATED CRIMSON LASER DIVIDER ═══════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(4) brightness(0.95);" />
+<!-- CHAPTER 3 -> CHAPTER 4 TRANSITION LINK -->
+<div align="center">
+  <br>
+  <a href="#chapter-4">
+    <img src="https://img.shields.io/badge/%E2%96%BC_PROCEED_TO_CHAPTER_4_%3A%3A_01%3A30_PM_ZOMBIE_REFACTORING_%E2%96%BC-050505?style=flat-square&color=ff0033" alt="Next Chapter" />
+  </a>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(4) brightness(0.95);" />
+</div>
+
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--         CHAPTER 4 // 01:30 PM ── ZOMBIE REFACTORING (BATCOMPUTER)        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=2000&color=FF3355&center=true&vCenter=true&repeat=true&width=650&height=35&lines=CHAPTER_4+%3A%3A+01%3A30_PM+ZOMBIE_REFACTORING" alt="Chapter 4" />
-</h3>
+<a name="chapter-4"></a>
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=2000&color=FF3355&center=true&vCenter=true&repeat=true&width=650&height=35&lines=CHAPTER_4+%3A%3A+01%3A30_PM+ZOMBIE_REFACTORING" alt="Chapter 4" />
+  </h3>
+</div>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="34%" align="center" valign="middle">
   <!-- CHAPTER 4: BATMAN AT THE BATCOMPUTER -->
-  <img src="assets/chapter4.gif" width="250" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Batcomputer Terminal" />
+  <img src="./assets/chapter4.gif" width="260" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Batcomputer Terminal" />
 </td>
 <td width="66%" valign="top">
   <p>
@@ -194,60 +245,84 @@ combat_log:
 </tr>
 </table>
 
-<!-- ═══════════════════════ ANIMATED CRIMSON LASER DIVIDER ═══════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(4) brightness(0.95);" />
+<!-- CHAPTER 4 -> CHAPTER 5 TRANSITION LINK -->
+<div align="center">
+  <br>
+  <a href="#chapter-5">
+    <img src="https://img.shields.io/badge/%E2%96%BC_PROCEED_TO_CHAPTER_5_%3A%3A_06%3A45_PM_BUS_SURVIVAL_%2B_IRON_%E2%96%BC-050505?style=flat-square&color=ff0033" alt="Next Chapter" />
+  </a>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(4) brightness(0.95);" />
+</div>
+
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--         CHAPTER 5 // 06:45 PM ── BUS SURVIVAL + IRON (BAT-RADAR)          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=2000&color=FF6680&center=true&vCenter=true&repeat=true&width=650&height=35&lines=CHAPTER_5+%3A%3A+06%3A45_PM+BUS_SURVIVAL+%26+IRON" alt="Chapter 5" />
-</h3>
+<a name="chapter-5"></a>
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=2000&color=FF6680&center=true&vCenter=true&repeat=true&width=650&height=35&lines=CHAPTER_5+%3A%3A+06%3A45_PM+BUS_SURVIVAL+%26+IRON" alt="Chapter 5" />
+  </h3>
+</div>
 
-<p>
+<p align="center">
   <i><font color="#a0a0a0">"Commuting on a roaring city bus over pothole-infested roads. Balancing at 40 MPH on one foot builds character.<br>
   Followed by heavy iron conditioning with classified dark frequencies streaming through the headphones."</font></i>
 </p>
 
 <!-- CHAPTER 5: TACTICAL BATMAN AUDIO CONSOLE -->
-<table border="0" cellpadding="14" cellspacing="0" style="border: 2px solid #ff0033; background-color: #050505; border-radius: 12px; box-shadow: 0 0 15px rgba(255, 0, 51, 0.4); max-width: 680px;">
-  <tr>
-    <td align="center" width="90">
-      <img src="assets/chapter5.gif" width="85" style="border-radius: 8px; border: 1px solid #ff0033;" alt="Batman Audio Console" />
-    </td>
-    <td align="left">
-      <b><font color="#ff0033">🦇 BATCAVE_FREQ_99.4 ::</font></b> <font color="#ffffff"><i>Dark Gotham Focus Beats & Synthetic Ambience</i></font><br>
-      <font color="#808080">▶ 01:23:45 ━━━━━━━━━━━━━━●━━━━━━━━━━━ ∞</font><br>
-      <font color="#ff6680">◄◄ &nbsp;&nbsp; ❚❚ &nbsp;&nbsp; ►► &nbsp;&nbsp;&nbsp;&nbsp; 🔊 ENCRYPTED AUDIO STREAM &nbsp;&nbsp; 🔁 LOOP</font>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0" cellpadding="14" cellspacing="0" style="border: 2px solid #ff0033; background-color: #050505; border-radius: 12px; box-shadow: 0 0 15px rgba(255, 0, 51, 0.4); max-width: 680px;">
+    <tr>
+      <td align="center" width="90">
+        <img src="./assets/chapter5.gif" width="85" style="border-radius: 8px; border: 1px solid #ff0033;" alt="Batman Focus" />
+      </td>
+      <td align="left">
+        <b><font color="#ff0033">🦇 BATCAVE_FREQ_99.4 ::</font></b> <font color="#ffffff"><i>Dark Gotham Focus Beats & Synthetic Ambience</i></font><br>
+        <font color="#808080">▶ 01:23:45 ━━━━━━━━━━━━━━●━━━━━━━━━━━ ∞</font><br>
+        <font color="#ff6680">◄◄ &nbsp;&nbsp; ❚❚ &nbsp;&nbsp; ►► &nbsp;&nbsp;&nbsp;&nbsp; 🔊 ENCRYPTED AUDIO STREAM &nbsp;&nbsp; 🔁 LOOP</font>
+      </td>
+    </tr>
+  </table>
 
-<br>
+  <br>
 
-<p align="center">
   <a href="https://www.instagram.com/al3x_x_y/" target="_blank">
     <img src="https://img.shields.io/badge/COMMUTE_SURVEILLANCE_LOGS-Instagram%20%3A%3A%20al3x__x__y-ff0033?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&color=800010" alt="Instagram" />
   </a>
-</p>
+</div>
 
-<!-- ═══════════════════════ ANIMATED CRIMSON LASER DIVIDER ═══════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(4) brightness(0.95);" />
+<!-- CHAPTER 5 -> CHAPTER 6 TRANSITION LINK -->
+<div align="center">
+  <br>
+  <a href="#chapter-6">
+    <img src="https://img.shields.io/badge/%E2%96%BC_PROCEED_TO_CHAPTER_6_%3A%3A_10%3A15_PM_THE_BAT--SIGNAL_IGNITES_%E2%96%BC-050505?style=flat-square&color=ff0033" alt="Next Chapter" />
+  </a>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(4) brightness(0.95);" />
+</div>
+
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--         CHAPTER 6 // 10:15 PM ── THE BAT-SIGNAL IGNITES                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=650&height=35&lines=CHAPTER_6+%3A%3A+10%3A15_PM+BAT_SIGNAL_IGNITES" alt="Chapter 6" />
-</h3>
+<a name="chapter-6"></a>
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=650&height=35&lines=CHAPTER_6+%3A%3A+10%3A15_PM+BAT_SIGNAL_IGNITES" alt="Chapter 6" />
+  </h3>
+</div>
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="34%" align="center" valign="middle">
   <!-- CHAPTER 6: BAT-SIGNAL SHINING IN STORM CLOUDS -->
-  <img src="assets/chapter6.gif" width="250" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Bat-Signal in Storm Clouds" />
+  <img src="./assets/chapter6.gif" width="260" style="border: 2px solid #ff0033; border-radius: 8px; filter: contrast(1.2) drop-shadow(0 0 12px #ff0033);" alt="Bat-Signal in Storm Clouds" />
 </td>
 <td width="66%" valign="top">
   <p>
@@ -285,18 +360,30 @@ combat_log:
 </tr>
 </table>
 
-<!-- ═══════════════════════ ANIMATED CRIMSON LASER DIVIDER ═══════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(4) brightness(0.95);" />
+<!-- CHAPTER 6 -> CHAPTER 7 TRANSITION LINK -->
+<div align="center">
+  <br>
+  <a href="#chapter-7">
+    <img src="https://img.shields.io/badge/%E2%96%BC_PROCEED_TO_CHAPTER_7_%3A%3A_01%3A50_AM_AMBUSH_%26_KNOCKOUT_%E2%96%BC-050505?style=flat-square&color=ff0033" alt="Next Chapter" />
+  </a>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="filter: hue-rotate(320deg) saturate(4) brightness(0.95);" />
+</div>
+
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--         CHAPTER 7 // 01:50 AM ── THE AMBUSH + THE KNOCKOUT               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=650&height=35&lines=CHAPTER_7+%3A%3A+01%3A50_AM+AMBUSH+%26+THE_KNOCKOUT" alt="Chapter 7" />
-</h3>
+<a name="chapter-7"></a>
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=2000&color=FF0033&center=true&vCenter=true&repeat=true&width=650&height=35&lines=CHAPTER_7+%3A%3A+01%3A50_AM+AMBUSH+%26+THE_KNOCKOUT" alt="Chapter 7" />
+  </h3>
+</div>
 
-<p>
+<p align="center">
   <i><font color="#a0a0a0">"The call connects. Screen shares. Client's jaw hits the floor.</font></i><br>
   <i><font color="#a0a0a0"><b>CLIENT:</b> 'Bro... WHEN did you build all of this?! You looked offline ALL DAY!'</font></i><br>
   <i><font color="#ff0033"><b>ALEX:</b> 'I've been working on it.'</font></i>
@@ -313,10 +400,12 @@ combat_log:
 </p>
 
 <!-- ═══════════════════════ BATCAVE FOOTER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0:000000,25:120003,50:38000a,75:120003,100:000000&section=footer" width="100%" alt="Footer" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0:000000,25:120003,50:38000a,75:120003,100:000000&section=footer" width="100%" alt="Footer" />
 
-<p>
-  <sub>🦇 <code>BAT_PLAN_999 :: ISSUE #999 FIN</code> &bull; <i>"He’s not really the type to advertise himself... You just see what he built and wonder when he had the time."</i> &bull; <b>al3x-X-y</b></sub>
-</p>
+  <p>
+    <sub>🦇 <code>BAT_PLAN_999 :: ISSUE #999 FIN</code> &bull; <i>"He’s not really the type to advertise himself... You just see what he built and wonder when he had the time."</i> &bull; <b>al3x-X-y</b></sub>
+  </p>
+</div>
 
 </div>
