@@ -5,7 +5,7 @@
 
 <br>
 
-<!-- ═══════════════════════ READABLE TELEMETRY TYPING ═══════════════════════ -->
+<!-- ═══════════════════════ READABLE TELEMETRY TYPING (SINGLE LINE // NO OVERLAP) ═══════════════════════ -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=1200&color=FF0033&center=true&vCenter=true&repeat=true&width=800&height=40&lines=%E2%96%B6+%5BBAT_PROTOCOL_999%5D+Classified+24H+Incident+Report;%E2%96%B6+%22Wait...+when+did+he+build+all+this%3F%22+%E2%86%92+%22I've+been+working+on+it.%22;%E2%96%B6+SYS_STATUS+%3A+Looks+completely+idle+%7C+Actually+building+an+empire;%E2%96%B6+HAZARD_ALERT+%3A+Trapped+in+a+400-layer+Adobe+timeline.+Send+RAM." alt="Batcomputer Output" />
 </a>
@@ -23,18 +23,26 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=al3x-X-y&left_color=000000&right_color=ff0033&left_text=%E2%97%88%20radar_hits" alt="Radar Hits" />
 </p>
 
-<!-- ═══════════════════════ CHAPTER NAVIGATION HUD ═══════════════════════ -->
-<table border="0" cellpadding="6" cellspacing="0" style="border: 1px solid #ff0033; background-color: #050505; border-radius: 8px;">
+<!-- ═══════════════════════ TACTICAL MISSION SELECTOR (BATCOMPUTER HUD) ═══════════════════════ -->
+<table border="0" cellpadding="12" cellspacing="0" style="border: 2px solid #ff0033; background-color: #050505; border-radius: 12px; box-shadow: 0 0 15px rgba(255, 0, 51, 0.35); max-width: 780px;">
   <tr>
     <td align="center">
-      <font color="#808080"><b>🦇 TIMELINE HUD // JUMP TO LOG :</b></font><br>
-      <a href="#chapter-1"><font color="#ff0033"><b>[ 02:14 AM : TIMELINE WAR ]</b></font></a> &bull;
-      <a href="#chapter-2"><font color="#ff0033"><b>[ 05:14 AM : BATCAVE COLLAPSE ]</b></font></a> &bull;
-      <a href="#chapter-3"><font color="#ff0033"><b>[ 09:15 AM : CIVILIAN MASQUERADE ]</b></font></a> &bull;
-      <a href="#chapter-4"><font color="#ff0033"><b>[ 01:30 PM : ZOMBIE REFACTOR ]</b></font></a> &bull;
-      <a href="#chapter-5"><font color="#ff0033"><b>[ 06:45 PM : BUS & IRON ]</b></font></a> &bull;
-      <a href="#chapter-6"><font color="#ff0033"><b>[ 10:15 PM : BAT-SIGNAL ]</b></font></a> &bull;
-      <a href="#chapter-7"><font color="#ff0033"><b>[ 01:50 AM : THE AMBUSH ]</b></font></a>
+      <b><font color="#ff0033">🦇 BATCOMPUTER // 24-HOUR MISSION SCRUBBER</font></b><br>
+      <font color="#808080" size="2"><i>Select a surveillance timestamp to jump directly into the tactical logs:</i></font>
+      <br><br>
+      <a href="#chapter-1"><img src="https://img.shields.io/badge/02%3A14_AM-CH.01_%3A%3A_TIMELINE_WAR-ff0033?style=for-the-badge&labelColor=000000&color=800010" alt="Ch1" /></a>
+      &nbsp;
+      <a href="#chapter-2"><img src="https://img.shields.io/badge/05%3A14_AM-CH.02_%3A%3A_BATCAVE_COLLAPSE-ff0033?style=for-the-badge&labelColor=000000&color=800010" alt="Ch2" /></a>
+      &nbsp;
+      <a href="#chapter-3"><img src="https://img.shields.io/badge/09%3A15_AM-CH.03_%3A%3A_CIVILIAN_MASQUERADE-ff0033?style=for-the-badge&labelColor=000000&color=800010" alt="Ch3" /></a>
+      <br><br>
+      <a href="#chapter-4"><img src="https://img.shields.io/badge/01%3A30_PM-CH.04_%3A%3A_ZOMBIE_REFACTOR-ff0033?style=for-the-badge&labelColor=000000&color=800010" alt="Ch4" /></a>
+      &nbsp;
+      <a href="#chapter-5"><img src="https://img.shields.io/badge/06%3A45_PM-CH.05_%3A%3A_BUS_%26_IRON-ff0033?style=for-the-badge&labelColor=000000&color=800010" alt="Ch5" /></a>
+      &nbsp;
+      <a href="#chapter-6"><img src="https://img.shields.io/badge/10%3A15_PM-CH.06_%3A%3A_BAT--SIGNAL-ff0033?style=for-the-badge&labelColor=000000&color=800010" alt="Ch6" /></a>
+      <br><br>
+      <a href="#chapter-7"><img src="https://img.shields.io/badge/01%3A50_AM-CH.07_%3A%3A_THE_AMBUSH_%26_KNOCKOUT-ff0033?style=for-the-badge&labelColor=000000&color=ff0033" alt="Ch7" /></a>
     </td>
   </tr>
 </table>
