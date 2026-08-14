@@ -394,7 +394,7 @@ combat_log:
 <p align="center">
   <i><font color="#a0a0a0">"The call connects. Screen shares. Client's jaw hits the floor.</font></i><br>
   <i><font color="#a0a0a0"><b>CLIENT:</b> 'Bro... WHEN did you build all of this?! You looked offline ALL DAY!'</font></i><br>
-  <i><font color="#ff0033"><b>ALEX:</b> 'I've been working on it.'</font></i>
+  <i><font color="#ff0033"><b>ALEX:</b> 'I'm Batman.'</font></i>
 </p>
 
 <br>
